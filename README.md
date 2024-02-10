@@ -14,4 +14,4 @@ micro_wake_word:
 
 ## Model Training
 
-See https://github.com/kahrendt/esphome-on-device-wake-word for details and instructions on training your own wake words.
+See https://github.com/kahrendt/microWakeWordfor details and instructions on training your own wake words.
