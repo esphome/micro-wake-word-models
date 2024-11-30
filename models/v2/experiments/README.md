@@ -10,7 +10,6 @@ To use, you must take control (or adopt) your ESPHome voice assistant and add th
 micro_wake_word:
   models:
     - model: "URL of the model JSON file"
-      id: "unique id"
 ```
 
 For example:
@@ -19,7 +18,6 @@ For example:
 micro_wake_word:
   models:
     - model: "https://raw.githubusercontent.com/esphome/micro-wake-word-models/refs/heads/main/models/v2/experiments/choo_choo_homie.json"
-      id: "choo_choo_homie"
 ```
 
 After rebuilding the ESPHome firmware and updating the device, visit its device info page in Home Assistant to change the active wake word.
