@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Okey FiFi",
   "author": "Dan Hajduk",
-  "website": "",
+  "website": "www.website.com",
   "model": "Okey_fifi.tflite",
   "trained_languages": ["en"],
   "version": 2,
