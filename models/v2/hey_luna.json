@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hey_luna",
+  "wake_word": "Hey Luna",
   "author": "Daniel Reimer",
   "website": "https://github.com/dreimer1986/micro-wake-word-models",
-  "model": "luna.tflite",
+  "model": "hey_luna.tflite",
   "trained_languages": [
     "en"
   ],
