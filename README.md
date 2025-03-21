@@ -9,7 +9,8 @@ These files can be used by referencing them by the filename without `.tflite`.
 ```yaml
 micro_wake_word:
   ...
-  model: okay_nabu
+  models:
+    - model: okay_nabu
 ```
 
 ## Model Training
