@@ -1,0 +1,17 @@
+{
+  "type": "micro",
+  "wake_word": "listen too meeh",
+  "author": "Kobi ONeil",
+  "model": "listen_too_meeh.tflite",
+  "version": 2,
+  "trained_languages": [
+    "en"
+  ],
+  "micro": {
+    "probability_cutoff": 0.67,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "tensor_arena_size": 60000,
+    "minimum_esphome_version": "2024.7"
+  }
+}
